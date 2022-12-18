@@ -1,0 +1,28 @@
+.container{width:300px; 
+    padding: 0.8em;
+    border-style: outset;
+    border-width:1.5px;
+    border-color: #D3D3D3;
+    box-shadow:0.5em 0.5em lightgrey;
+    font-family:Open sans, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align:left;
+  } 
+  
+  .image{
+  padding: 0.1em 0.1em 0.8em 0.1em;}
+  
+  .facts{ 
+    border-style: solid;
+    border-width:0.5px; 
+    border-color:lightgrey; 
+    padding:0.8em; 
+  } 
+  
+  .info{font-style:italic;} 
+  
+  .bold{font-weight:bold;
+  } 
+  
+  ul{list-style-type:none; 
+    padding:0px;}
